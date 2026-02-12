@@ -1,0 +1,4 @@
+#ignore all files with extensions .a
+*.a
+#ignore all files stqarting with d
+*d
